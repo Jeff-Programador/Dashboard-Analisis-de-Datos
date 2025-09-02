@@ -1,4 +1,3 @@
-<img width="833" height="274" alt="image" src="https://github.com/user-attachments/assets/74ab0503-ed16-4d11-9cde-f2e18ecf27ce" /># Dashboard-Anlisis-de-Datos
 Entrega de Dashboard con la Herramienta Google Sheets.
 Este proyecto consiste en la creación de un dashboard interactivo y un análisis exploratorio de datos sobre las ventas globales de videojuegos. Utilizando un conjunto de datos extraído de vgchartz.com, que contiene información sobre videojuegos con ventas superiores a 100,000 copias, se realizó un análisis detallado para identificar los títulos, géneros y plataformas más exitosos a lo largo del tiempo.
 
