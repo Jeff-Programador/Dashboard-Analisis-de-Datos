@@ -64,3 +64,5 @@ Datos Originales
 Análisis con Tablas Dinámicas
 Dashboard de Visualización
 Informe Explicativo
+
+Base de datos utilizada: https://www.kaggle.com/datasets/gregorut/videogamesales/data
