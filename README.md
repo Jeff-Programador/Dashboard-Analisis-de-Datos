@@ -1,4 +1,4 @@
-# Dashboard-Anlisis-de-Datos
+<img width="833" height="274" alt="image" src="https://github.com/user-attachments/assets/74ab0503-ed16-4d11-9cde-f2e18ecf27ce" /># Dashboard-Anlisis-de-Datos
 Entrega de Dashboard con la Herramienta Google Sheets.
 Este proyecto consiste en la creación de un dashboard interactivo y un análisis exploratorio de datos sobre las ventas globales de videojuegos. Utilizando un conjunto de datos extraído de vgchartz.com, que contiene información sobre videojuegos con ventas superiores a 100,000 copias, se realizó un análisis detallado para identificar los títulos, géneros y plataformas más exitosos a lo largo del tiempo.
 
@@ -47,16 +47,56 @@ Top 10 juegos menos vendidos → Algunos títulos apenas alcanzaron ventas globa
 
 
 
-Hallazgos Clave:
 
-Juego más vendido: Grand Theft Auto V con 104M de copias, seguido de Wii Sports.
-Plataforma líder: PlayStation 2, con más de 1.2B de unidades vendidas en videojuegos.
-Géneros top: Acción y Deportes concentran la mayor parte de las ventas.
-Tendencia temporal: 2007-2009 fueron los años más fuertes en ventas globales.
-Mercado regional: América del Norte lidera, pero Japón mantiene un rol crucial en la industria.
+
+Informe y Hallazgos Clave
+
+Tras realizar el análisis exploratorio de los 16,598 registros de videojuegos, se obtuvieron los siguientes hallazgos clave:
+
+Ventas globales totales:
+La suma total de ventas globales es de 8,820.35 millones de unidades.
+Esto indica la magnitud del mercado analizado y permite contextualizar las ventas individuales de cada videojuego.
+
+Top 5 videojuegos más vendidos (Global_Sales)
+
+Posición	Videojuego	Plataforma	Ventas Globales (millones)
+1	Wii Sports	Wii	82.74
+2	Super Mario Bros	NES	40.24
+3	Mario Kart Wii	Wii	35.52
+4	Tetris	GB	35.00
+5	New Super Mario Bros	DS	30.80
+
+Plataformas con mayores ventas globales:
+
+Wii lidera el mercado con ventas acumuladas superiores a 2100 millones de unidades.
+PS2 y DS también muestran un rendimiento muy alto, superando cada una los 1,500 millones de unidades en ventas acumuladas.
+
+Géneros más vendidos:
+
+Los géneros Acción y Deportes son los que mayor número de unidades vendieron globalmente.
+Otros géneros destacados son Plataformas y Shooter, mostrando un fuerte impacto en el mercado global.
+
+Ventas por región:
+
+América del Norte (NA_Sales): 3,100 millones de unidades (aprox. 35% del total global).
+Europa (EU_Sales): 2,500 millones de unidades (aprox. 28%).
+Japón (JP_Sales): 1,400 millones de unidades (aprox. 16%).
+Resto del mundo (Other_Sales): 1,820 millones de unidades (aprox. 21%).
+
+Esto muestra que América del Norte y Europa son los principales mercados, mientras que Japón y el resto del mundo también tienen un peso relevante.
+
+Tendencias a lo largo del tiempo
+
+La mayoría de los videojuegos con mayores ventas se lanzaron entre 2000 y 2010, coincidiendo con la era de plataformas como Wii, PS2 y DS.
+Existe una disminución progresiva en las ventas de videojuegos más recientes, probablemente debido a la fragmentación del mercado y la aparición de nuevas plataformas digitales.
+
+Hallazgos adicionales: 
+
+Los videojuegos de marcas consolidadas, como Mario y Tetris, dominan el top de ventas globales.
+Las plataformas domésticas (consolas de sobremesa) tienden a tener mayores ventas globales acumuladas que las consolas portátiles o PC.
+La venta de videojuegos muestra un patrón regional claro: ciertos títulos venden más en su región de origen, mientras que otros logran un éxito global.
 
 Instrucciones de Uso:
-
 Accede al Dashboard en Google Sheets: https://docs.google.com/spreadsheets/d/1ES2Re-QyYJv0UF3wM02F91uPzk6YFD9RPpkn0_1SvGE/edit?usp=sharing
 
 Explora las diferentes hojas:
