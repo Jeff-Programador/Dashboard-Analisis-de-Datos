@@ -36,10 +36,15 @@ Dashboard:
 El dashboard desarrollado en Google Sheets incluye las siguientes visualizaciones:
 
 Ventas por género → Los géneros de Acción (1,827M) y Deportes (1,308M) dominan el mercado.
+
 Ventas por plataforma → La PS2 (1,256M) y PS3 (1,032M) lideran como consolas más exitosas.
+
 Ventas totales por año → Se observa un pico de ventas entre 2007 y 2009, con un declive progresivo a partir de 2010.
+
 Top 10 juegos más vendidos → Lidera Grand Theft Auto V (104M) y Wii Sports (82.74M).
+
 Top 10 juegos menos vendidos → Algunos títulos apenas alcanzaron ventas globales de 0.01M.
+
 
 
 Hallazgos Clave:
